@@ -6,7 +6,7 @@ author_name: Mimi
 author_uri: http://weibo.com/wangbaomi
 ---
 
-## 我们的博客开张啦~~
+## 我们的博客开张啦,哈哈~~
 
 ## 这个博客将会成为我们的爱情庄园~~~
 
